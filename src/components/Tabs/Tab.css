@@ -1,0 +1,10 @@
+.desc{
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+.bold{
+    font-weight: bold;
+}
+@media (max-width: 740px) {
+
+}   

@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.ma{
+    margin-right: 40px;
+    font-weight: bold;
+}
+.logo{
+    height: 55px;
+    width: 140px;
+}
+.bla{
+    color: rgb(206, 203, 203);
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 200px;
+    
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(163, 158, 158);
+} 
+.ul{
+    border-bottom: rgb(241, 239, 239) solid;
+    
+}
+.robo{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(163, 158, 158);
+    font-weight: 300;
+    text-align: left;
+}
+.app{
+    text-align: center;
+}
+.rajdeep{
+    height: 60px;
+    width: 70px;
+    border-radius: 20%;
+}
+.rad{
+    text-align: right;
+}
+.bullet{
+    list-style-type: none;
+    text-align: left;
+    font-size: 12px;
+}
+.pad{
+    padding-left: 0px;
+}
+.max{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.mid{
+    color: rgb(107, 104, 104);
+    font-weight: 500;
+    text-decoration: line-through;
+}
+.offer{
+    font-weight: bold;
+    color: rgb(231, 114, 19);
+}
+.name{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgb(88, 86, 86);
+}
+.place{
+    color: rgb(107, 104, 104);
+    font-weight: 500;
+}
+.star{
+    background-color: #027C43;
+    color: white;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 10%;
+    margin-left: 5px;
+}
+.cartbtn{
+    color: #0F5EEA;
+    font-weight: bold;
+    
+
+}
+.bottomnav{
+    margin-right: 250px;
+}
+.navo{
+    font-size: 10px;
+}
+
+@media (max-width: 740px) {
+    .ma{
+        margin-right: 0px;
+    }
+    .bla{
+        margin-left: 10px;
+        
+    }
+    .roboto{
+        font-size: 11px;
+    }
+    .rad{
+        text-align: left;
+    }
+    .bullet{
+        margin-left: 40px;
+    }
+    .mid{
+        margin-right: 10px;
+    }
+    .bottomnav{
+        margin-right: 0px;
+    }
+    .cartbtn{
+        font-size: 10px;
+    }
+  }

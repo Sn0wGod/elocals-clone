@@ -1,0 +1,100 @@
+.logo{
+    height: 55px;
+    width: 140px;
+}
+.ma{
+    margin-right: 40px;
+    font-weight: bold;
+}
+.roboto1{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(163, 158, 158);
+} 
+.compare{
+    position: absolute;
+    right: 40px;
+}
+.blab{
+    color: rgb(206, 203, 203);
+    font-size: 15px;
+    font-weight: 400;
+}
+.share{
+    text-align: right;
+}
+.bitmap1{
+    margin-top: 75px;
+}
+.feature{
+    color:#BDBDBD;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+.oneplus{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.thumbnail{
+    border: thistle solid;
+    border-width: 0.2px;
+    margin-left: 5px;
+}
+.mainphoto{
+    height: 400px;
+    width: 400px;
+}
+.tax{
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+    color: #0F5EEA;
+    font-weight: bold;
+}
+.emi{
+    color: #FF601E;
+    
+    font-weight: bold;
+    font-size: 13px;
+}
+.raj{
+    font-size: 12px;
+    font-weight: bold;
+    border: grey solid;
+    padding: 2px;
+    border-radius: 5%;
+    width: 110px;
+}
+.list{
+    list-style-type: none;
+    font-size: 10px;
+    font-weight: bold;
+}
+.gre{
+    color: grey;
+}
+.hid{
+    display: none;
+}
+.navcolor{
+    background-color: white;
+}
+@media (max-width: 740px) {
+    .sidephoto{
+        display: none;
+    }
+    .mainphoto{
+        
+        width: 300px;
+    }
+    .emi{
+        font-size: 9px;
+    }
+    .app1{
+        text-align: center;
+    }
+    .raj{
+        margin-bottom: 20px;
+    }
+    .hid{
+        display: block;
+    }
+}

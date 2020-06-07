@@ -1,0 +1,43 @@
+.sta{
+    font-size: 1rem;
+    color: #FFC600;
+}
+.R{
+    color: white;
+    background-color: #FFAE76;
+    padding: 10px 15px;
+    border-radius: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+}
+.star1{
+    background-color: #027C43;
+    color: white;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 10%;
+    margin-left: 10px;
+    margin-right: 25px;
+    font-size: 10px;
+}
+.user{
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+}
+.robotofont{
+    font-family: 'Roboto', sans-serif;
+}
+.similar{
+    font-weight: bold;
+    font-size: 20px;
+}
+.archives{
+    background-color: #F1F6FF;
+}
+.blue1{
+    color: #0F5EEA;
+
+}
+.font-grey{
+    color: grey;
+}

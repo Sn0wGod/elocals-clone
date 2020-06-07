@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.seller{
+    width: 175px;
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.app {
+    text-align: center;
+  }
+  @media (max-width: 740px) {
+      .seller{
+          width: 155px;
+      }
+  }
